@@ -9,5 +9,7 @@ The output of the program is like in the following image
 
 ![program output](https://github.com/vmstr99/movie-recomendation-system/blob/main/recomended.jpg)
 
+In this case the prediction makes sense since
+
 Since no NN are used the prediction may be a bit off in some cases, on the other hand the time required to run the whole project is very low and it's managble to use it on platform such as Google Colab.
 An evaluation of the prediction mechanism will be added in future.
